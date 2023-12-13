@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2d397de6.css","mappings":"AAAA,oBAEI,SACI,UACJ,CACJ","sources":["styles/menu.module.css"],"sourcesContent":[".active {\r\n    /*color: ${theme.colors.accent};*/\r\n    &::before {\r\n        height: 1px;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
